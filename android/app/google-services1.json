@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "644800737721",
+    "project_id": "karostreammemories",
+    "storage_bucket": "karostreammemories.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644800737721:android:5c354e7348ddae7d850668",
+        "android_client_info": {
+          "package_name": "com.karo.karostreams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644800737721-cga70jg0vlqqbvr4rtrcclnvvptm8neo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karo.karostreams",
+            "certificate_hash": "9fcf3c025bc982e4f48e90f32734a76bd099383a"
+          }
+        },
+        {
+          "client_id": "644800737721-2lsf7bounefoil3pr7e3si5rlj7tgcm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV8JCwPl9X5tS2D3CcSL-eiIlBkSoAP7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644800737721-2lsf7bounefoil3pr7e3si5rlj7tgcm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
